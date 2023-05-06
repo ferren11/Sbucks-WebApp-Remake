@@ -1,0 +1,94 @@
+:root {
+
+    /*gold*/
+    /* --primary-color: #C6A961;
+    --primary-color-rgb: 198,169,97; */
+    /*green*/
+    --primary-color: #006F42;
+    --primary-color-rgb: 0,111,66;
+}
+
+.dark {
+    background-color: black !important;
+}
+
+.btn-dark,
+.footer,
+.progress-bar {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-dark {
+    background-color: white !important;
+    border-color: var(--primary-color) !important;
+    color: var(--primary-color) !important;
+}
+
+.btn-primary-custom {
+    color: white;
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary-custom:hover {
+    color: white;
+    background-color: rgba(var(--primary-color-rgb), 125%);
+    border-color: rgba(var(--primary-color-rgb), 125%);
+}
+
+.filter-btn {
+    border-color: var(--primary-color);
+    background-color: white;
+    color: var(--primary-color);
+}
+
+.filter-btn.active {
+    border-color: var(--primary-color);
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.card {
+    background-color: rgba(var(--primary-color-rgb), 0.25);
+}
+
+.brand-name,
+.loyalty-status,
+.nav-link {
+    color: var(--primary-color);
+}
+
+.brand-name:active,
+.nav-link:active {
+    color: black !important;
+  }
+
+.content {
+    padding-top: 160px;
+}
+
+.floating-btn{
+    display: flex;
+    align-items: center;
+    /* background: #006F42; */
+    justify-content: center;
+    text-decoration: none;
+    /* border-radius: 50%; */
+    /* font-size: 36px; */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    right: 40px;
+    bottom: 80px;
+    /* transition: background 0.25s; */
+}
+
+.container-scrollable {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Enables momentum scrolling on iOS devices */
+}
+
+/* .floating-btn:active {
+    background: #005f39;
+} */

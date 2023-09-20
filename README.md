@@ -29,9 +29,9 @@ Here are the views for Sbucks WebApp Remake:
 Mr. Vico Lomar. A user with 3 coffee purchases in history on 19 March 2023, 20 March 2023 and 21 March 2023. Mr. Vico Lomar is a user with loyalty in the Gold Level category.
 
 1. homepage view + pop-up when trying to redeem points
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp1.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp2.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp3.png)
+![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp1.png | width = 100)
+![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp2.png  | width = 100)
+![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp3.png )
 
 2. transaction history page view
 ![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20tr1.png)

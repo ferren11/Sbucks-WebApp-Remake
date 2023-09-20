@@ -29,49 +29,48 @@ Here are the views for Sbucks WebApp Remake:
 Mr. Vico Lomar. A user with 3 coffee purchases in history on 19 March 2023, 20 March 2023 and 21 March 2023. Mr. Vico Lomar is a user with loyalty in the Gold Level category.
 
 1. homepage view + pop-up when trying to redeem points
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp1.png | width = 100)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp2.png  | width = 100)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp3.png )
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp1.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp2.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20hp3.png" width="100">
 
 2. transaction history page view
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20tr1.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20tr1.png" width="100">
 
 3. coffee list page view, divided into categories: all, espresso, blended, brewed, others. – the categories can be scrolled horizontally
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf1.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf2.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf3.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf1.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf2.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf3.png" width="100">
 
 4. when ordering, there will be pop-up about order confirmation. Click buy, then will give you a message that the order has been placed
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf4.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf5.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf4.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20cf5.png" width="100">
 
 5. back to the transaction history page, showing the newest transaction is succeed
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20tr2%20(last).png)
-
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user1%20tr2%20(last).png" width="100">
 
 ### User 2
 Ms. Fei Fei Li. A user with 3 coffee purchases in history on 18 March 2023, 19 March 2023 and 21 March 2023. Ms. Fei Fei Li is a user with Green Level Loyalty Category
 
 1. homepage view + pop-up when trying to redeem points
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp1.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp2.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp3.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp1.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp2.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20hp3.png" width="100">
 
 2. transaction history page view
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr1.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr1.png" width="100">
 
 3. coffee list page view, divided into categories: all, espresso, blended, brewed, others. – the categories can be scrolled horizontally
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf1.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf2.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf3.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf1.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf2.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf3.png" width="100">
 
 4. when ordering, there will be pop-up about order confirmation. Click buy, then will give you a message that the order has been placed
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf4.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf5.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf4.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf5.png" width="100">
 
 5. back to the transaction history page, showing the newest transaction is succeed
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr2%20(last).png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr2%20(last).png" width="100">
 
 6. when we choose no // don’t want to order, the pop-up will removed. Then, when we go to the transaction history page, there is no transaction made
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf6.png)
-![Webpage-Display](https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr3.png)
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20cf6.png" width="100">
+<img src="https://github.com/ferren11/Sbucks-WebApp-Remake/blob/master/public/webpage-view/user2%20tr3.png" width="100">
